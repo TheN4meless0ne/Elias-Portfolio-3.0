@@ -17,7 +17,7 @@ function ArrowIcon() {
 
 function FaIcon( { icon }: { icon: string } ) {
     return (
-        <i className={icon} />
+      <i className={icon}/>
     )
 }
 
