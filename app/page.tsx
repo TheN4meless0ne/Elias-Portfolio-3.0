@@ -32,27 +32,6 @@ export default function Page() {
         {`I study IT and enjoy making programs`}
       </p>
 
-      <div className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
-        <a
-          className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-          rel="noopener noreferrer"
-          target="_blank"
-          href="https://www.sandnes.kommune.no/"
-        >
-          <ArrowIcon />
-          <p className="ml-2 h-7">linkedin</p>
-        </a>
-        <a
-          className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-          rel="noopener noreferrer"
-          target="_blank"
-          href="https://www.vaagen.vgs.no/hovedmeny/utdanningstilbud/informasjonsteknologi-og-medieproduksjon/"
-        >
-          <ArrowIcon />
-          <p className="ml-2 h-7">instagram</p>
-        </a>
-      </div>
-
       <div className="my-8">
         <BlogPosts />
       </div>
