@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
     default: 'egreig-vistnes.no',
-    template: '%s | Portfolio',
+    template: '%s | egreig-vistnes.no',
   },
   description: 'This is my portfolio.',
   openGraph: {
