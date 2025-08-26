@@ -11,7 +11,7 @@ import { baseUrl } from './sitemap'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Elias Greig-Vistnes',
+    default: 'Portfolio | egreig-vistnes',
     template: '%s | Elias Greig-Vistnes',
   },
   description: 'This is my portfolio.',

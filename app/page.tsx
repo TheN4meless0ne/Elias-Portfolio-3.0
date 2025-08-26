@@ -29,7 +29,8 @@ export default function Page() {
       </div>
 
       <p className="mb-4">
-        {`I study IT and enjoy making programs`}
+        {`Hello! My name is Elias, I am an IT trainee at Cegal Norway.`}
+        {`I enjoy working on programs and applications as well as modding videogames.`}
       </p>
 
       <div className="my-8">
