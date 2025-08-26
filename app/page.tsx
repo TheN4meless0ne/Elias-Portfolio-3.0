@@ -30,6 +30,7 @@ export default function Page() {
 
       <p className="mb-4">
         {`Hello! My name is Elias, I am an IT trainee at Cegal Norway.`}
+        <br />
         {`I enjoy working on programs and applications as well as modding videogames.`}
       </p>
 
