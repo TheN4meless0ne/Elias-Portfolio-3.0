@@ -11,7 +11,7 @@ const navItems = {
     name: 'deploy',
   },
   'https://github.com/TheN4meless0ne/portfolio-starter-kit': {
-    name: 'view source',
+    name: 'source',
   }
 }
 
