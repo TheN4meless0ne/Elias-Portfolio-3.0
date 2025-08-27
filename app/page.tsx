@@ -7,7 +7,14 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Elias Greig-Vistnes
         <br />
-        <p className="text-neutral-500 dark:text-neutral-400">IT trainee, Cegal Norway</p>
+        <a
+          className="text-neutral-500 dark:text-neutral-400 transition-all hover:text-neutral-600 dark:hover:text-neutral-300"
+          rel="noopener noreferrer"
+          target="_blank"
+          href="https://www.cegal.com/"
+        >
+          <p >IT trainee, Cegal Norway</p>
+        </a>
       </h1>
       <div className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
         <a
