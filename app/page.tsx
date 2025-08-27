@@ -1,4 +1,4 @@
-import { BlogPosts } from 'app/components/posts'
+import { Documents } from 'app/components/posts'
 import { ArrowIcon, FaIcon } from 'app/components/icons'
 
 export default function Page() {
@@ -44,7 +44,7 @@ export default function Page() {
       </p>
 
       <div className="my-8">
-        <BlogPosts />
+        <Documents />
       </div>
     </section>
   )
