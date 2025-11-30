@@ -7,15 +7,15 @@ const navItems = {
   '/documents': {
     name: 'documents',
   },
+    '/certifications': {
+    name: 'certifications',
+  },
   'https://vercel.com/templates/next.js/portfolio-starter-kit': {
     name: 'deploy',
   },
   'https://github.com/TheN4meless0ne/Elias-Portfolio-3.0': {
     name: 'source',
-  },
-  '/certifications': {
-    name: 'certifications',
-  },
+  }
 }
 
 export function Navbar() {
