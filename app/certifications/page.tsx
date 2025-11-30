@@ -1,3 +1,10 @@
+
+
+export const metadata = {
+  title: 'Certifications',
+  description: 'View my certifications.',
+}
+
 export default function Page() {
   return (
     <section>
