@@ -12,7 +12,10 @@ const navItems = {
   },
   'https://github.com/TheN4meless0ne/Elias-Portfolio-3.0': {
     name: 'source',
-  }
+  },
+  '/certifications': {
+    name: 'certifications',
+  },
 }
 
 export function Navbar() {
